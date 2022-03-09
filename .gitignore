@@ -1,0 +1,68 @@
+build
+dist
+
+#ignoring image files of image folder
+
+# JPEG
+/web/Products_Image/*.jpg
+/web/Products_Image/*.jpeg
+/web/Products_Image/*.jpe
+/web/Products_Image/*.jif
+/web/Products_Image/*.jfif
+/web/Products_Image/*.jfi
+
+# JPEG 2000
+/web/Products_Image/*.jp2
+/web/Products_Image/*.j2k
+/web/Products_Image/*.jpf
+/web/Products_Image/*.jpx
+/web/Products_Image/*.jpm
+/web/Products_Image/*.mj2
+
+# JPEG XR
+/web/Products_Image/*.jxr
+/web/Products_Image/*.hdp
+/web/Products_Image/*.wdp
+
+# Graphics Interchange Format
+/web/Products_Image/*.gif
+
+# RAW
+/web/Products_Image/*.raw
+
+# Web P
+/web/Products_Image/*.webp
+
+# Portable Network Graphics
+/web/Products_Image/*.png
+
+# Animated Portable Network Graphics
+/web/Products_Image/*.apng
+
+# Multiple-image Network Graphics
+/web/Products_Image/*.mng
+
+# Tagged Image File Format
+/web/Products_Image/*.tiff
+/web/Products_Image/*.tif
+
+# Scalable Vector Graphics
+/web/Products_Image/*.svg
+/web/Products_Image/*.svgz
+
+# Portable Document Format
+/web/Products_Image/*.pdf
+
+# X BitMap
+/web/Products_Image/*.xbm
+
+# BMP
+/web/Products_Image/*.bmp
+/web/Products_Image/*.dib
+
+# ICO
+/web/Products_Image/*.ico
+
+# 3D Images
+/web/Products_Image/*.3dm
+/web/Products_Image/*.max

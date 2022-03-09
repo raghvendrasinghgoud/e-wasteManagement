@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/servlet/checkPhoneExist.java</file>
+            <file>file:/D:/ewasteNew/web/index.jsp</file>
+            <file>file:/D:/ewasteNew/web/footer.jsp</file>
+            <file>file:/D:/ewasteNew/web/adminlogin.jsp</file>
+            <file>file:/D:/ewasteNew/web/searchproduct.jsp</file>
+            <file>file:/D:/ewasteNew/web/showcustomer.jsp</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/helper/Mail.java</file>
+            <file>file:/D:/ewasteNew/web/WEB-INF/web.xml</file>
+            <file>file:/D:/ewasteNew/web/postproduct.jsp</file>
+            <file>file:/D:/ewasteNew/nbproject/build-impl.xml</file>
+            <file>file:/D:/ewasteNew/web/signup.jsp</file>
+            <file>file:/D:/ewasteNew/web/sendotp.jsp</file>
+            <file>file:/D:/ewasteNew/web/showProfile.jsp</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/helper/Helper.java</file>
+            <file>file:/D:/ewasteNew/web/header.jsp</file>
+            <file>file:/D:/ewasteNew/web/companyhome.jsp</file>
+            <file>file:/D:/ewasteNew/web/showproduct.jsp</file>
+            <file>file:/D:/ewasteNew/web/recievedproducts.jsp</file>
+            <file>file:/D:/ewasteNew/web/yourposts.jsp</file>
+            <file>file:/D:/ewasteNew/web/showcompany.jsp</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/dao/companyDAO.java</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/servlet/saveproduct.java</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/servlet/checkEmailExist.java</file>
+            <file>file:/D:/ewasteNew/web/assets/js/script.js</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/dao/UserDAO.java</file>
+            <file>file:/D:/ewasteNew/web/admincustomer.jsp</file>
+            <file>file:/D:/ewasteNew/web/editprofile.jsp</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/servlet/userLogin.java</file>
+            <file>file:/D:/ewasteNew/web/submitOTPonchangeEmail.jsp</file>
+            <file>file:/D:/ewasteNew/src/java/com/pkg/dao/customerDAO.java</file>
+            <file>file:/D:/ewasteNew/web/aboutus.jsp</file>
+            <file>file:/D:/ewasteNew/web/login.jsp</file>
+            <file>file:/D:/ewasteNew/web/remainingcollections.jsp</file>
+            <file>file:/D:/ewasteNew/web/submitOTP.jsp</file>
+            <file>file:/D:/ewasteNew/web/adminproduct.jsp</file>
+        </group>
+    </open-files>
+</project-private>
